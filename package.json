@@ -14,7 +14,7 @@
   "author": "Jake <support@r6stats.com>",
   "license": "GPL-3.0",
   "scripts": {
-    "start": "babel-node index.js",
+    "start": "index.js",
     "dev": "nodemon --exec npm run start"
   },
   "dependencies": {
