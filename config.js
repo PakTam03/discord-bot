@@ -6,6 +6,6 @@ module.exports = {
     base_url: ''
 	},
 	discord: {
-		token: 'xxxxx'
+		token: 'NTE0MTE4MDI3MTM5MzUwNTI4.DtR5Vg.fv5zywtyfbjKd2ZBkzGlU0Au3Bo'
 	}
 }
